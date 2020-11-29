@@ -1,7 +1,7 @@
 -- Título de la actividad: Caso práctico I de lenguajes SQL: DML y DDL.
 -- Alumno: Dan Marius Dumitrescu 
 -- Módulo: M02-Bases de datos 
--- UF2: Lenguajes SQL: DML y DLLPaquete SCORM
+-- UF2: Lenguajes SQL: DML y DLL
 
 /*
 	1.	Realiza el Modelo Relacional del modelo E-R de los alojamientos rurales.
