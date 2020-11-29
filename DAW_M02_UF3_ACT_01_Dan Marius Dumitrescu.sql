@@ -32,7 +32,7 @@ Para implementar la tarea debemos realizar las siguientes operaciones: */
 --todos los datos.
 
 --DROP TABLESPACE academia INCLUDING CONTENTS AND DATAFILES;
-CREATE TABLESPACE academia DATAFILE 'C:\oracle-dbs\academia.dbf' SIZE 20M 
+CREATE TABLESPACE academia DATAFILE 'C:\oracle-dbs\academia.dbf' SIZE 400M 
 AUTOEXTEND ON; 
 
 --2.	Crea un usuario llamado “world” que tenga todos los privilegios en el 
